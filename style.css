@@ -1,4 +1,32 @@
-html {
-  height: 100%;
-  width: 100%;
+.nav-menu{
+  margin: 10px;
+}
+
+
+.menu-items{
+  display: flex;
+}
+
+.menu-items{
+  margin: 30px;
+}
+
+.items{
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+section{
+  border: solid black 1px;
+  padding: 20px;
+  margin: 15px;
+}
+
+footer{
+  background-color: blue;
+}
+
+body{
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
 }
